@@ -1,0 +1,7 @@
+{
+  "name": "moltbot-kamikaze",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Deploying via Dockerfile'"
+  }
+}
